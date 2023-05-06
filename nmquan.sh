@@ -1,4 +1,4 @@
-#!/bin/bash
+
 clear
 echo ""
 echo "   1. Cài đặt"
